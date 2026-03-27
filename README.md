@@ -9,14 +9,11 @@
 - 💡 Interested in solving real-world problems using data
 - 🌱 Currently learning **Deep Learning & Advanced ML techniques**
 - 🤝 Open to internships, collaborations & research opportunities
-
----
-
 ## 🛠️ Skills & Tools
 
 ### 👨‍💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,r,java" />
+  <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
 ### 📊 Data Science & ML
@@ -62,10 +59,11 @@
 
 ## 🌐 Connect with Me
 <p>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+  <a href="[https://www.linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/akhil-valluru/)">
     <img src="https://skillicons.dev/icons?i=linkedin" />
+    
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:akhilkumar94419@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
